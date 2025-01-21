@@ -1,6 +1,6 @@
-import { Stats } from "../stats/Stats";
-import { Steps } from "../steps/Steps";
-import { Services } from "../services/Services";
+import { Stats } from "../stats/stats";
+import { Steps } from "../steps/steps";
+import { Services } from "../services/services";
 
 const Join = () => {
   return (

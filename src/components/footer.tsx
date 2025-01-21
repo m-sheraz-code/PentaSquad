@@ -1,11 +1,11 @@
-import { Button } from "./ui/button";
+//import { Button } from "./ui/button";
 import Logo from "../assets/img/icon.png";
 import { FaWhatsapp } from "react-icons/fa";
 import {
   Copyright,
   Facebook,
   Linkedin,
-  Send,
+  //Send,
   Twitter,
   Youtube,
 } from "lucide-react";
